@@ -61,7 +61,7 @@ I bring expertise in **React.js, JavaScript (ES6+), HTML, CSS**, and styling fra
     </td>
   </tr>
 </table>
----
+
 
 ## 📈 Experience Highlights  
 
