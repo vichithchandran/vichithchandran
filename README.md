@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vichith Chandran  
 
-**Frontend Developer | UI Developer | React.js | JavaScript**  
+**Frontend Developer | UI Developer | React.js Developer | JavaScript Developer**  
 💡 Crafting Seamless UI | ⚡ Building Responsive, Scalable Web Apps | 🎨 Frontend Enthusiast  
 
 ---
@@ -52,6 +52,8 @@ I bring expertise in **React.js, JavaScript (ES6+), HTML, CSS**, and styling fra
       <p>
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
+         <img src="https://img.shields.io/badge/-CKEditor%205-0288D1?logo=ckeditor&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
@@ -83,7 +85,6 @@ I bring expertise in **React.js, JavaScript (ES6+), HTML, CSS**, and styling fra
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vichith-chandran-652307209)  
-- 🌐 [Portfolio](#)  
 - 📧 [Email Me](mailto:your.email@example.com)  
 
 ---
