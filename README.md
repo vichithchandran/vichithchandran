@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vichith Chandran  
 
-**Frontend Developer | UI Developer | React.js Developer | JavaScript Developer**  
+**Frontend Developer | React.js Developer | JavaScript Developer**  
 💡 Crafting Seamless UI | ⚡ Building Responsive, Scalable Web Apps | 🎨 Frontend Enthusiast  
 
 ---
@@ -23,45 +23,15 @@ I bring expertise in **React.js, JavaScript (ES6+), HTML, CSS**, and styling fra
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,materialui,webpack,vite" /><br>
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,mysql,postgresql,mongodb,graphql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,postman,netlify,vercel" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-        <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Styling</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Other Tools & Tech</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" />
-         <img src="https://img.shields.io/badge/-CKEditor%205-0288D1?logo=ckeditor&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
-      </p>
-    </td>
-  </tr>
-</table>
-
+---
 
 ## 📈 Experience Highlights  
 
@@ -76,17 +46,29 @@ I bring expertise in **React.js, JavaScript (ES6+), HTML, CSS**, and styling fra
 
 ## 📊 GitHub Stats  
 
-![Vichith's GitHub stats](https://github-readme-stats.vercel.app/api?username=vichithchandran&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichithchandran&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vichithchandran&theme=tokyonight&hide_border=false)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vichithchandran&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichithchandran&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vichithchandran&theme=tokyonight&hide_border=false" height="160" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vichith-chandran-652307209)  
-- 📧 [Email Me](mailto:your.email@example.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vichith-chandran-652307209">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ✨ *“Code is poetry. Design is intelligence made visible.”*  
+
