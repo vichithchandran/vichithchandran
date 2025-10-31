@@ -35,20 +35,8 @@ I’m always learning new technologies and modern frontend practices to improve 
 
 ## 📫 Contact  
 
-📞 **9847645467**  
 📧 **[vichithchandran@gmail.com](mailto:vichithchandran@gmail.com)**  
-🔗 **[LinkedIn – Vichith Chandran](https://www.linkedin.com/in/vichith-chandran-652307209)**  
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vichith-chandran-652307209">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:vichithchandran@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+🌐 **[Vercel Projects – vichithchandran](https://vercel.com/vichith-chandrans-projects)**  
 
 ---
-
 ✨ *“Code is poetry. Design is intelligence made visible.”*  
