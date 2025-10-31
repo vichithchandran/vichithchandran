@@ -35,8 +35,15 @@ I’m always learning new technologies and modern frontend practices to improve 
 
 ## 📫 Contact  
 
-📧 **[vichithchandran@gmail.com](mailto:vichithchandran@gmail.com)**  
-🌐 **[Vercel Projects – vichithchandran](https://vercel.com/vichith-chandrans-projects)**  
+<p align="center">
+  <a href="mailto:vichithchandran@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vichith-chandran-652307209" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="linkedin" />
+  </a>
+</p> 
 
 ---
 ✨ *“Code is poetry. Design is intelligence made visible.”*  
