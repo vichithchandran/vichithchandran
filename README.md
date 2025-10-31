@@ -38,7 +38,7 @@ I’m always learning new technologies and modern frontend practices to improve 
 📞 **9847645467**  
 📧 **[vichithchandran@gmail.com](mailto:vichithchandran@gmail.com)**  
 🔗 **[LinkedIn – Vichith Chandran](https://www.linkedin.com/in/vichith-chandran-652307209)**  
-🌐 **[Vercel Projects – vichithchandran](https://vercel.com/vichith-chandrans-projects)**  
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vichith-chandran-652307209">
@@ -46,9 +46,6 @@ I’m always learning new technologies and modern frontend practices to improve 
   </a>
   <a href="mailto:vichithchandran@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://vercel.com/vichith-chandrans-projects">
-    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
