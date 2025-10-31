@@ -25,7 +25,7 @@ I’m always learning new technologies and modern frontend practices to improve 
 ## 🔑 My Core Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,vite,python,php,mysql,sql,CodeIgniter,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,materialui,vite,python,php,mysql,codeigniter,git,github,vscode,vercel" />
 </p>
 
 - 🎯 **UI Implementation & Responsive Design**  
