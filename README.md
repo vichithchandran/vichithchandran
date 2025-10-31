@@ -33,17 +33,16 @@ I’m always learning new technologies and modern frontend practices to improve 
 
 ---
 
-## 📫 Contact  
-
 <p align="center">
-  <a href="mailto:vichithchandran@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="email" />
+  <a href="mailto:vichithchandran@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email Me" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vichith-chandran-652307209" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="linkedin" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vichith-chandran-652307209" target="_blank" title="Visit my LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-</p> 
+</p>
+
 
 ---
 ✨ *“Code is poetry. Design is intelligence made visible.”*  
