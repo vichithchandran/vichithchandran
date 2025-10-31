@@ -19,43 +19,11 @@ I’m always learning new technologies and modern frontend practices to improve 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔑 My Core Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,vite" /><br>
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,mysql,postgresql,mongodb,graphql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,vite,python,php,mysql,git,github,vscode,vercel" />
 </p>
-
----
-
-## 💼 Experience  
-
-### **Frontend Developer — brqglobtech pvt limited**  
-📍 *Kasaragod, Kerala, India* | 🗓️ *July 2022 – Present (3 years 4 months)*  
-
-- Developed and maintained **modern web applications** using React.js and Tailwind CSS.  
-- Created **reusable UI components** and **optimized rendering performance** with React hooks.  
-- Integrated **REST APIs** and managed asynchronous data flows effectively.  
-- Ensured **cross-browser compatibility** and **mobile responsiveness**.  
-- Collaborated with backend teams to deliver smooth, consistent UI/UX experiences.  
-- Followed **component-driven architecture** and best practices for scalability and maintainability.  
-
----
-
-## 🎓 Education  
-
-🎓 **Master of Computer Applications (MCA)** — *Cyber Security*  
-**Srinivas Institute of Technology, Mangalore**  
-📆 *October 2020 – June 2022*  
-
-🎓 **Bachelor’s of Computer Application (BCA)** — *Data Analytics and Cloud Computing*  
-**Srinivas Institute of Technology, Mangalore**  
-📆 *July 2017 – May 2020*  
-
----
-
-## 🔑 Top Skills  
 
 - 🎯 **UI Implementation & Responsive Design**  
 - ⚛️ **Component-Based Architecture (React.js)**  
@@ -65,32 +33,24 @@ I’m always learning new technologies and modern frontend practices to improve 
 
 ---
 
-## 🌐 Languages  
-
-🇮🇳 **Hindi**  
-🇮🇳 **Malayalam**  
-🇬🇧 **English**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vichithchandran&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichithchandran&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vichithchandran&theme=tokyonight&hide_border=false" height="160" />
-</p>
-
----
-
 ## 📫 Contact  
 
 📞 **9847645467**  
 📧 **[vichithchandran@gmail.com](mailto:vichithchandran@gmail.com)**  
 🔗 **[LinkedIn – Vichith Chandran](https://www.linkedin.com/in/vichith-chandran-652307209)**  
+🌐 **[Vercel Projects – vichithchandran](https://vercel.com/vichith-chandrans-projects)**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vichith-chandran-652307209">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:vichithchandran@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://vercel.com/vichith-chandrans-projects">
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
