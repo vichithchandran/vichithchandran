@@ -3,6 +3,9 @@
 **Frontend Developer (React.js | JavaScript | Tailwind CSS)**  
 💡 Building Responsive, Scalable Web Apps | 🎨 Passionate About UI/UX & Performance Optimization  
 
+📧 **[vichithchandran@gmail.com](mailto:vichithchandran@gmail.com)**  
+🔗 **[LinkedIn – Vichith Chandran](https://www.linkedin.com/in/vichith-chandran-652307209)**
+
 ---
 
 ## 🧠 Summary  
@@ -30,19 +33,6 @@ I’m always learning new technologies and modern frontend practices to improve 
 - 🔗 **API Integration & Data Handling**  
 - 🧩 **Reusable UI Components**  
 - 📊 **Performance Optimization**  
-
----
-
-<p align="center">
-  <a href="mailto:vichithchandran@gmail.com" target="_blank" title="Send me an email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email Me" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vichith-chandran-652307209" target="_blank" title="Visit my LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-  </a>
-</p>
-
 
 ---
 ✨ *“Code is poetry. Design is intelligence made visible.”*  
